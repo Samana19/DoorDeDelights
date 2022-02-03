@@ -1,0 +1,33 @@
+{
+    "expo": {
+      "name": "DoorDeDelights",
+      "slug": "DoorDeDelights",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/icon1.png",
+      "splash": {
+        "image": "./assets/images/splash1.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#BF2E2E"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/adaptive-icon1.png",
+          "backgroundColor": "#BF2E2E"
+        }
+      },
+      "web": {
+        "favicon": "./assets/favicon.png"
+      }
+    }
+  }
+  
